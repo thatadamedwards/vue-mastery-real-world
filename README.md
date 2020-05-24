@@ -1,5 +1,7 @@
 # real-world
 
+This is the coded solution to the [Vue Mastery](https://www.vuemastery.com/) - [Real World Vue.js](https://www.vuemastery.com/courses/real-world-vue-js) course
+
 ## Project setup
 ```
 npm install
